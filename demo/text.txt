@@ -1,0 +1,1 @@
+{"type":["\u7c27","\u7ea6"],"text":[{"min_x":122,"max_x":147,"min_y":31,"max_y":55},{"min_x":25,"max_x":49,"min_y":94,"max_y":120}]}
